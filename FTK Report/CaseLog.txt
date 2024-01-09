@@ -1,0 +1,249 @@
+23/07/2023 23:11:34 -- FTK Version 1.60 build 05.07.20
+	Examiner's Machine:
+	Phys Mem:  Total: 2,147,483,647  Available: 2,147,483,647  Used: 0
+	Virt Mem:  Total: 2,147,352,576  Available: 1,838,477,312  Used: 308,875,264
+	Page File Available: 4,294,967,295
+	----------------------------------------------------
+23/07/2023 23:11:34 -- AccessData PRTK EFS integration unavailable: AccessData PRTK 5 or AccessData PRTK 6 is not installed
+23/07/2023 23:11:34 -- New case started by examiner Mohammed Riad using FTK version 1.60 build 05.07.20
+	Investigator: Mohammed Riad
+	Case Name: Final Project
+	Case Number: 23072023
+	Case Folder: c:\Final Project
+	Description: 
+	Case Log Options (NOT Case Agent Logging Options):
+	  Log case and evidence events: Yes
+	  Log error messages: Yes
+	  Log bookmarking events: Yes
+	  Log searching events: Yes
+	  Log special searching events: Yes
+	  Log other events: Yes
+	  Log extended information: No
+	Processes to be performed:
+	  File Extraction: Yes
+	  File Identification: Yes
+	  MD5 Hash: Yes
+	  SHA1 Hash: Yes
+	  KFF (Known File Filter): Yes
+	  Entropy Test: Yes
+	  Full Text Index: Yes
+	  Prerender Thumbnails: Yes
+	  File Listing Database: Yes
+	  HTML File Listing: No
+	  Data Carving: No
+	  Decrypt EFS Files: Unavailable
+	Default Case Refinement Settings:
+	  Add files only if they satisfy BOTH the file status and the file type criteria as follows:
+	    File Status Criteria:
+	      Deletion status: any
+	      Encryption status: any
+	      From email status: any
+	      Duplicate status: any
+	      OLE stream status: any
+	    File Type Criteria:
+	      documents: yes
+	      spreadsheets: yes
+	      databases: yes
+	      graphics: yes
+	      email messages: yes
+	      executables: yes
+	      archives: yes
+	      folders: yes
+	      other recognized: yes
+	      unknown: yes
+	Default Index Refinement Settings:
+	  Don't index KFF ignorable files
+	  Index files only if they satisfy BOTH the file status and the file type criteria as follows:
+	    File Status Criteria:
+	      Deletion status: any
+	      Encryption status: any
+	      From email status: any
+	      Duplicate status: any
+	      OLE stream status: any
+	    File Type Criteria:
+	      documents: yes
+	      spreadsheets: yes
+	      databases: yes
+	      graphics: yes
+	      email messages: yes
+	      executables: yes
+	      archives: yes
+	      folders: yes
+	      other recognized: yes
+	      unknown: yes
+	-- Evidence 1 --
+	Name/Number: 
+	Location: C:\Users\drmoh\Downloads\Washer (5) (1).E01
+	Display name: Washer (5) (1)\Part_1\WASHER-NTFS
+	Type: E01 Image, Partition, NTFS
+	Comment: 
+	Evidence-specific Case Refinement Settings:
+	  Add all files
+	Evidence-specific Index Refinement Settings:
+	  Index all files
+	-- Evidence 2 --
+	Name/Number: 
+	Location: C:\Users\drmoh\Downloads\Washer (5) (1).E01
+	Display name: Washer (5) (1)\UnpartSpace
+	Type: E01 Image, Partition, NTFSUnpartitioned Space
+	Comment: 
+	Evidence-specific Case Refinement Settings:
+	  Add all files
+	Evidence-specific Index Refinement Settings:
+	  Index all files
+23/07/2023 23:11:34 -- Starting to add evidence items...
+23/07/2023 23:11:42 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Application Data\Aim\ukilldmw\washergonebad\Resources\CurrentSettings.xml failed Outside In filtering and was filtered manually.
+23/07/2023 23:11:42 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Application Data\Aim\ukilldmw\Resources\CurrentSettings.xml failed Outside In filtering and was filtered manually.
+23/07/2023 23:11:42 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Application Data\Aim\ukilldmw\bartcache\137\2C73706C65616B failed Outside In filtering and was filtered manually.
+23/07/2023 23:11:43 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Application Data\Aim\ukilldmw\bartcache\1024\2B000001B7>>manifest.xml failed Outside In filtering and was filtered manually.
+23/07/2023 23:11:46 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\My Documents\ALLSTATE CREDIT AGENCY.pdf failed Outside In filtering and was filtered manually.
+23/07/2023 23:11:51 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Inbox.dbx>>Message0014>>ALLSTATE CREDIT AGENCY.pdf failed Outside In filtering and was filtered manually.
+23/07/2023 23:12:19 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Install_AIM59[1].exe failed Outside In filtering and was filtered manually.
+23/07/2023 23:12:38 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8541I7GL\CAD0K4TL failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:51 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Billy Bob Brubeck\Templates\excel.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:51 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Billy Bob Brubeck\Templates\excel4.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:51 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Billy Bob Brubeck\Templates\quattro.wb2 failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:54 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Captian Hook\Templates\excel.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:54 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Captian Hook\Templates\excel4.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:54 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Captian Hook\Templates\quattro.wb2 failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:56 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\The Wolf\Templates\excel.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:56 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\The Wolf\Templates\excel4.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:56 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\The Wolf\Templates\quattro.wb2 failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:58 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Mr Smee\Templates\excel.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:58 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Mr Smee\Templates\excel4.xls failed Outside In filtering and was filtered manually.
+23/07/2023 23:13:58 -- The file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Mr Smee\Templates\quattro.wb2 failed Outside In filtering and was filtered manually.
+23/07/2023 23:14:03 -- Completed adding Washer (5) (1)\Part_1\WASHER-NTFS
+23/07/2023 23:14:03 -- Completed adding Washer (5) (1)\UnpartSpace
+23/07/2023 23:14:04 -- Updating Overview Cache
+23/07/2023 23:14:04 -- Updating counts
+23/07/2023 23:14:04 -- Flushing case data to disk
+23/07/2023 23:14:04 -- Building graphic path tree
+23/07/2023 23:14:05 -- Building explore path tree (actual files)
+23/07/2023 23:14:17 -- Building graphic path tree (actual files)
+23/07/2023 23:14:29 -- Building email path tree
+23/07/2023 23:14:29 -- Final Status Update:
+	Total Elapsed Time:        0.00:02:55
+	Total Items Examined:      4,747
+	Total Items Added:         4,747
+	Total Indexing Completed:
+	    Items Indexed:         4,200
+	    Index Time:            0.00:00:04
+	    Data Indexed:          137,427,170
+	    Data Indexed (filt):   32,118,584
+	Indexing completed since last update:
+	    Items Indexed:         4725
+	    Index Time:            0.00:00:04
+	    Data Indexed:          137,427,170
+	    Data Indexed (filt):   32,118,584
+	Total Bytes Processed:     131,071,560
+	Drive c: Available (case): 48,241,784KB of 261,256,188KB
+	Drive C: Available (temp): 48,241,784KB of 261,256,188KB
+	Physical Memory Available: 2,097,151KB of 2,097,151KB
+	Virtual Memory Available:  1,822,728KB of 2,097,024KB
+	Page File Available:       4,194,303KB of 4,194,303KB
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #1366 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Com_Mail;MN=93227031;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=413x22;tile=1;dcove=d;ord=10486606[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Com_Mail;MN=93227031;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=413x22;tile=1;dcove=d;o
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #1382 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #1562 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Site_WS;MN=93211819;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=61x21;tile=2;dcove=d;ord=1050314807[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Site_WS;MN=93211819;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=61x21;tile=2;dcove=d;ord
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #1563 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Site_WSB;MN=93224869;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x15;tile=7;dcove=d;ord=10503148[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Site_WSB;MN=93224869;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x15;tile=7;dcove=d;o
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #1580 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Text;MN=93225982;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=140x10;tile=1;dcove=d;ord=1048673932[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8VHFTTJ2\Text;MN=93225982;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=140x10;tile=1;dcove=d;ord=1
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #2474 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\activity;src=1459484;met=1;v=1;pid=17159579;aid=112697585;ko=0;cid=21479607;rid=21497497;rv=1;&timestamp=1185390366529;eid1=2;ecn1=1;etm1=10;eid2=100[1].gif
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\activity;src=1459484;met=1;v=1;pid=17159579;aid=112697585;ko=0;cid=21479607;rid=21497497;rv=1;&timestamp=1185390366529;eid1=2;ecn1=1;etm1=
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #2725 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Com_Mail;MN=93227031;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=413x22;tile=1;dcove=d;ord=10506000[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Com_Mail;MN=93227031;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=413x22;tile=1;dcove=d;o
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #2738 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #2739 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x[2]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-
+23/07/2023 23:14:30 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #2950 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Site_WS;MN=93224867;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x30;tile=5;dcove=d;ord=105031480[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\AUWFFV2D\Site_WS;MN=93224867;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x30;tile=5;dcove=d;or
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #3533 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\O6O6PIEA\activity;src=1459484;met=1;v=1;pid=17159579;aid=112697585;ko=0;cid=21479607;rid=21497497;rv=1;&timestamp=1185390376529;eid1=2;ecn1=0;etm1=10;eid3=100[1].gif
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\O6O6PIEA\activity;src=1459484;met=1;v=1;pid=17159579;aid=112697585;ko=0;cid=21479607;rid=21497497;rv=1;&timestamp=1185390376529;eid1=2;ecn1=0;etm1=
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #3604 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\O6O6PIEA\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\O6O6PIEA\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #3605 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\O6O6PIEA\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x[2]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\O6O6PIEA\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #3980 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\QR6BYPYZ\r=8686&s=778708&o=20_2001_2018_2250_&h=cn&p=2&b=6&l=en_US&site=4&pt=3001&nd=2250&pid=&cid=10704232&pp=100&e=3&rqid=01c18-ad-e147AA26B855A1FC4&orh=&oe[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\QR6BYPYZ\r=8686&s=778708&o=20_2001_2018_2250_&h=cn&p=2&b=6&l=en_US&site=4&pt=3001&nd=2250&pid=&cid=10704232&pp=100&e=3&rqid=01c18-ad-e147AA26B855A1
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #4188 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Directions;MN=93206400;wm=o;city=cutandshoot;st=tx;dma=houston;co=usa;zip=77306;distancebucket=4;distance=1185;rm=1;am3=1;ua=39;ug=1;!c=d-
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #4328 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Maps;MN=93206397;wm=o;city=redfeatherlakes;st=co;dma=denver;co=usa;zip=80545;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x90;tile=1;dcove=d;ord=1053150463[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Maps;MN=93206397;wm=o;city=redfeatherlakes;st=co;dma=denver;co=usa;zip=80545;rm=1;am3=1;ua=39;ug=1;!c=d-jav;sz=728x90;tile=1;dcove=d;ord=1
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #4370 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Site_WSA;MN=93224868;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x15;tile=6;dcove=d;ord=10503148[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Site_WSA;MN=93224868;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x15;tile=6;dcove=d;o
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #4371 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Site_WSC;MN=93224870;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x15;tile=8;dcove=d;ord=10503148[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Site_WSC;MN=93224870;wm=o;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=291x15;tile=8;dcove=d;o
+23/07/2023 23:14:31 -- WARNING: [MS Access database Creation] Column "Full Path" for case item #4383 truncated in database column
+		from: Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Text;MN=93225982;wm=o;rsi=10433;rsi=10778;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=140x10;tile=1;dcov[1]
+		to:   Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\ZQBEUDIO\Text;MN=93225982;wm=o;rsi=10433;rsi=10778;rm=1;am3=1;ua=39;ug=1;!c=d-gif;!c=d-jpg;!c=d-imrd;!c=d-fls;!c=d-jav;!c=d-dxp;!c=d-pxp;sz=140x10;
+23/07/2023 23:14:31 -- Successfully created default MS Access database during case pre-processing.
+23/07/2023 23:14:31 -- Loading case
+23/07/2023 23:14:31 -- Updating Overview Cache
+23/07/2023 23:14:31 -- Filtering file list
+23/07/2023 23:14:31 -- Initializing thumbnail view
+23/07/2023 23:14:31 -- Resetting search terms list
+23/07/2023 23:14:31 -- Building the indexed search results tree...
+23/07/2023 23:14:31 -- Building the live search results tree...
+23/07/2023 23:14:31 -- Building the bookmark tree
+23/07/2023 23:24:39 -- Closing case: c:\Final Project\
+24/07/2023 23:20:45 -- AccessData PRTK EFS integration unavailable: AccessData PRTK 5 or AccessData PRTK 6 is not installed
+24/07/2023 23:20:45 -- 
+24/07/2023 23:20:45 -- Loading case
+24/07/2023 23:20:45 -- Building explore path tree
+24/07/2023 23:20:45 -- Building explore, graphic and email path tree
+24/07/2023 23:20:45 -- Updating Overview Cache
+24/07/2023 23:20:45 -- Filtering file list
+24/07/2023 23:20:45 -- Initializing thumbnail view
+24/07/2023 23:20:45 -- Resetting search terms list
+24/07/2023 23:20:45 -- Building the indexed search results tree...
+24/07/2023 23:20:45 -- Building the live search results tree...
+24/07/2023 23:20:45 -- Building the bookmark tree
+24/07/2023 23:20:45 -- Opened case: C:\Final Project\ using FTK version 1.60 build 05.07.20
+24/07/2023 23:22:12 -- Added bookmark: "Email"
+	Bookmark comment: 
+	Include in report: No
+	Export files: No
+	Applies to file: Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0004
+24/07/2023 23:26:44 -- Add file(s) to bookmark(s)...
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Inbox.dbx>>Message0020 to bookmark Email
+24/07/2023 23:27:27 -- Add file(s) to bookmark(s)...
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0018 to bookmark Email
+24/07/2023 23:27:50 -- Add file(s) to bookmark(s)...
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Inbox.dbx>>Message0020>>printeruse01.jpg to bookmark Email
+24/07/2023 23:28:01 -- Add file(s) to bookmark(s)...
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Inbox.dbx>>Message0019>>See what I did.jpg to bookmark Email
+24/07/2023 23:28:29 -- Add file(s) to bookmark(s)...
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0008>>cool tool.piz>>ValidateCreditCard.jar to bookmark Email
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0008>>cool tool.piz>>ValidateCreditCard.jar>>BITMAP>>Thumbs.db>>VCC_ABOUT.jpg to bookmark Email
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0008>>cool tool.piz>>ValidateCreditCard.jar>>BITMAP>>VCC_ABOUT.jpg to bookmark Email
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0008>>cool tool.piz>>ValidateCreditCard.jar>>BITMAP>>Thumbs.db>>VISA.jpg to bookmark Email
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0008>>cool tool.piz>>ValidateCreditCard.jar>>BITMAP>>VISA.jpg to bookmark Email
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0008>>cool tool.piz>>ValidateCreditCard.jar>>BITMAP>>Thumbs.db>>VISAGR.jpg to bookmark Email
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0008>>cool tool.piz>>ValidateCreditCard.jar>>BITMAP>>VISAGR.jpg to bookmark Email
+24/07/2023 23:28:39 -- Add file(s) to bookmark(s)...
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Sent Items.dbx>>Message0010>>The Dealz.doc to bookmark Email
+24/07/2023 23:30:41 -- Add file(s) to bookmark(s)...
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\Local Settings\Application Data\Identities\{6B6FD541-F2AF-4EFB-AF50-EC531BF02474}\Microsoft\Outlook Express\Inbox.dbx>>Message0008>>How To Steal Credit Numbers.doc to bookmark Email
+	Added file Washer (5) (1)\Part_1\WASHER-NTFS\Documents and Settings\Administrator\My Documents\How To Steal Credit Numbers.doc to bookmark Email
