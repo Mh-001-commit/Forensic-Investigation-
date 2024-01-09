@@ -1,0 +1,4 @@
+[autorun]
+OPEN=Explorer.exe index.htm
+ICON=SupportingFiles\ad.ico
+
